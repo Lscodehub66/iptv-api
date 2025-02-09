@@ -7,8 +7,6 @@
   <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV1.cn" site_id="cctv1">CCTV 1</channel>
   <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV2.cn" site_id="cctv2">CCTV 2</channel>
   <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV3.cn" site_id="cctv3">CCTV 3</channel>
-  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV4America.cn" site_id="cctvamerica">CCTV 4 America</channel>
-  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV4Europe.cn" site_id="cctveurope">CCTV 4 Europe</channel>
   <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV5.cn" site_id="cctv5">CCTV 5</channel>
   <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV6.cn" site_id="cctv6">CCTV 6</channel>
   <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV8.cn" site_id="cctv8">CCTV 8</channel>

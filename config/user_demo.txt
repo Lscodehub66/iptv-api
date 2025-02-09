@@ -1,13 +1,13 @@
 🌊本地,#genre#
 翡翠台
 明珠台
+无线新闻
 凤凰资讯
 
-📺央视1-4,#genre#
+📺央视1-3,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
-CCTV-4
 
 📡卫视,#genre#
 桂林新闻
