@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="programme.tvb.com" lang="zh" xmltv_id="Jade.hk" site_id="J">翡翠台</channel>
+  <channel site="programme.tvb.com" lang="zh" xmltv_id="Pearl.hk" site_id="P">明珠台</channel>
+  <channel site="programme.tvb.com" lang="zh" xmltv_id="TVBNewsChannel.hk" site_id="C">無綫新聞台</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="BeijingSatelliteTV.cn" site_id="btv1">北京卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV1.cn" site_id="cctv1">CCTV 1</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV2.cn" site_id="cctv2">CCTV 2</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV3.cn" site_id="cctv3">CCTV 3</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV5.cn" site_id="cctv5">CCTV 5</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV6.cn" site_id="cctv6">CCTV 6</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV8.cn" site_id="cctv8">CCTV 8</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV9.cn" site_id="cctvjilu">CCTV 9</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV13.cn" site_id="cctv13">CCTV 13</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="CCTV14.cn" site_id="cctvchild">CCTV 14</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="GuangdongSatelliteTV.cn" site_id="guangdong">广东卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="GuangxiTV.cn" site_id="guangxi">广西卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="HunanTV.cn" site_id="hunan">湖南卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="JiangsuSatelliteTV.cn" site_id="jiangsu">江苏卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="ShandongTV.cn" site_id="shandong">山东卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="ShenzhenTV.cn" site_id="shenzhen">深圳卫视</channel>
+  <channel site="tv.cctv.com" lang="zh" xmltv_id="ZhejiangSatelliteTV.cn" site_id="zhejiang">浙江卫视</channel>
+</channels>

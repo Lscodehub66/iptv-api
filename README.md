@@ -1,3 +1,4 @@
+[![Update schedule](https://github.com/Lscodehub66/iptv-api/actions/workflows/main.yml/badge.svg)](https://github.com/Lscodehub66/iptv-api/actions/workflows/main.yml)
 <div align="center">
   <img src="./static/images/logo.png" alt="logo"/>
   <h1 align="center">IPTV-API</h1>
